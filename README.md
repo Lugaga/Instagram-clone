@@ -8,11 +8,11 @@
 
 *User Registeration | Sign Up Page
 
-![User Sign Up]()
+![User Sign Up](media/lugagram-web-app-screen-grabs/sign-up.PNG)
 
 * User Login Page
 
-![User Login]()
+![User Login](media/lugagram-web-app-screen-grabs/login.PNG)
 
 * Live Feeds Page
 
