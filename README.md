@@ -1,4 +1,4 @@
-# Lugagagram
+# Lugagram
 
 #### This is an Instagram clone made with nothing but the sweet Django web framework.
 
@@ -6,41 +6,44 @@
 
 ## The Web Application Screengrabs.
 
-* User Registeration | Sign Up Page
+*User Registeration | Sign Up Page
 
-![]()
+![User Sign Up]()
 
 * User Login Page
 
-![]()
+![User Login]()
 
 * Live Feeds Page
 
-![]()
+![Live Feeds](media/lugagram-web-app-screen-grabs/live-feed.PNG)
 
 * User Profile Page
 
-![]()
+![User Profile](media/lugagram-web-app-screen-grabs/user-profile.PNG)
 
 * Explore Page
 
-![]()
+![Exploration](media/lugagram-web-app-screen-grabs/user-exploration.PNG)
 
 * Followers Page
 
-![]()
+![Followers](media/lugagram-web-app-screen-grabs/user-followers.PNG)
 
 * Followings Page
 
-![]()
+![Followings](media/lugagram-web-app-screen-grabs/my -following.PNG)
 
 * Settings Page
 
-![]()
+![Settings Page](media/lugagram-web-app-screen-grabs/user-settings.PNG)
 
 * Search Page
+![Settings Page](media/lugagram-web-app-screen-grabs/user-settings.PNG)
 
-![]()
+* Notifications Page
+
+![Search Page](media/lugagram-web-app-screen-grabs/user-notifications.PNG)
 
 * Change Profile Page
 
@@ -48,7 +51,7 @@
 
 * Edit Profile Page
 
-![]()
+![Edit Profile Page](media/lugagram-web-app-screen-grabs/edit-profile.PNG)
 
 ## Description
 
