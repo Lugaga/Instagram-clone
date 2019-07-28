@@ -76,6 +76,11 @@ This is an Instagram clone made with nothing but the sweet Django web framework.
 * Access the live site using the [local host]()
 * Access the live web application by clicking on this : [Lugagagram](https://lugagagram.herokuapp.com/)
 
+## Technologies Used
 
+* Python3.6.
+* Django 1.11.5.
+* CSS3 for styling.
+* HTML5 for webpage design.
 
 
