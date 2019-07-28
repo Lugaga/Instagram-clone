@@ -30,10 +30,6 @@
 
 ![Followers](media/lugagram-web-app-screen-grabs/user-followers.PNG)
 
-* Followings Page
-
-![Followings](media/lugagram-web-app-screen-grabs/my -following.PNG)
-
 * Settings Page
 
 ![Settings Page](media/lugagram-web-app-screen-grabs/user-settings.PNG)
