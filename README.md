@@ -44,7 +44,7 @@
 
 * Change Profile Page
 
-![]()
+![Change Profile](media/lugagram-web-app-screen-grabs/change-profile.PNG)
 
 * Edit Profile Page
 
