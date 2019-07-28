@@ -83,4 +83,15 @@ This is an Instagram clone made with nothing but the sweet Django web framework.
 * CSS3 for styling.
 * HTML5 for webpage design.
 
+## Support
+
+* Telephone: +254 (0) 777 685 128
+* Email: maureezgaga@outlook.com
+
+### License and Copyright details
+
+* The MIT License [MIT]()
+* Copyright (c) 2019 **Engineer Lugaga**
+
+
 
