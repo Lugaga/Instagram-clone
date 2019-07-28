@@ -67,5 +67,15 @@ This is an Instagram clone made with nothing but the sweet Django web framework.
 | Comment on Image | Click on comment  | Comments written by user |
 | Search for user | Enter search word and submit | users |
 
+## Setup/Installation Requirements
+
+* Clone Project to your machine `git clone `
+* Activate a virtual environment on terminal: `source virtual/bin/activate`
+* Install all the requirements found in requirements file : `pip install -r requirements.txt`
+* On your terminal run `python manage.py runserver`
+* Access the live site using the [local host]()
+* Access the live web application by clicking on this : [Lugagagram](https://lugagagram.herokuapp.com/)
+
+
 
 
