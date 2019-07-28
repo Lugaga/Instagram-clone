@@ -35,11 +35,11 @@
 ![Settings Page](media/lugagram-web-app-screen-grabs/user-settings.PNG)
 
 * Search Page
-![Settings Page](media/lugagram-web-app-screen-grabs/user-settings.PNG)
+![Search Page](media/lugagram-web-app-screen-grabs/user-search.PNG)
 
 * Notifications Page
 
-![Search Page](media/lugagram-web-app-screen-grabs/user-notifications.PNG)
+![Notifications](media/lugagram-web-app-screen-grabs/user-notifications.PNG)
 
 * Change Profile Page
 
